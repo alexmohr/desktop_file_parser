@@ -11,4 +11,4 @@ description = "Freedesktop Desktop Entry Parser"
 
 [dependencies]
 thiserror = "2.0.7"
-xdgkit = "3.2.5"
+xdgkit = { git = "https://github.com/alexmohr/xdgkit", branch = "update-dependencies-and-cleanup" }
